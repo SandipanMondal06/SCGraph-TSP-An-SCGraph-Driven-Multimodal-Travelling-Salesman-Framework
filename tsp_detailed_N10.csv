@@ -1,0 +1,4 @@
+solver,meta_graph_time_sec,solver_time_sec,total_time_sec,total_distance_km,error
+gurobi,22.094174,0.101117,22.213006,5918.9854,
+aco,20.932078,1.534183,22.543108,5918.9854,
+greedy,21.719449,0.0,21.79263,5918.9854,
